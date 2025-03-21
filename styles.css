@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1, h2 {
+    font-weight: 600;
+    color: #cc0707; /* Darker text for contrast */
+}
+button, a {
+    font-weight: bold;
+    background-color: #ff6600; /* Vibrant color */
+    color: rgb(9, 18, 139);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+button:hover, a:hover {
+    background-color: #2505da;
+}
